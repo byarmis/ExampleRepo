@@ -10,7 +10,7 @@ This is a repository for showing GitHub-y things
 * pointed
 * list
 
-Are those the only kind of lists?
+Are these the only kind of lists?
 
 1. No!
 2. you
