@@ -3,8 +3,6 @@ This is a repository for showing GitHub-y things
 
 # What can I do in a README?
 
-You can write things!
-
 * This
 * is
 * a
